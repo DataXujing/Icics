@@ -3,7 +3,7 @@ icics
 
 
 .. image:: pic/logo.png   
-   :align:right
+   :align: right
    
 
 Xujing
