@@ -2,8 +2,9 @@ icics
 ========
 
 
-.. image:: pic/logo.png   
-   :align: right
+.. image:: pic/logo.png  
+ 
+   :align: middle
    
 
 Xujing
@@ -114,7 +115,7 @@ Tested on Python 2.7, 3.5, 3.6
 
 * pip install Icics
 * Download: https://pypi.python.org/pypi/Icics
-* Documentation: https://pypi.python.org/pypi/Icics
+* Documentation: https://github.com/DataXujing/Icics
 
 you can log in Xujing's home page: https://dataxujing.coding.me or https://dataxujing.github.io to learn more.
 
