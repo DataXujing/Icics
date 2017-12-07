@@ -3,7 +3,6 @@ icics
 
 
 .. image:: pic/logo.png  
- 
    :align: middle
    
 
