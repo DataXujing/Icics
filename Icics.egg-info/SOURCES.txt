@@ -1,0 +1,9 @@
+MANIFEST.in
+README.rst
+icics.py
+setup.py
+Icics.egg-info/PKG-INFO
+Icics.egg-info/SOURCES.txt
+Icics.egg-info/dependency_links.txt
+Icics.egg-info/requires.txt
+Icics.egg-info/top_level.txt
