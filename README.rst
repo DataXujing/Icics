@@ -16,8 +16,7 @@ Introduction
 
 Firstly simply describe the process of the algorithm:
 
-1. First, define the target legal 'preference' cases
-(eg. the law operates the case with a high recovery rate and considers the law 'preference' in the case) 
+1. First, define the target legal 'preference' cases(eg. the law operates the case with a high recovery rate and considers the law 'preference' in the case) 
 
 2. The sequence of cases randomly disrupting which ready to be allocated (the operation mainly weakens the shortcomings of the use of the algorithm)
 
