@@ -1,10 +1,14 @@
 icics
 ========
+.. image:: https://img.shields.io/github/tag/expressjs/express.svg   
+    :target: https://github.com/DataXujing/Icics
+
+.. image:: https://www.travis-ci.org/DataXujing/Icics.svg?branch=master
+    :target: https://www.travis-ci.org/DataXujing/Icics
 
 
-.. image:: pic/logo.png  
-   :align: right
-   
+.. image:: https://raw.githubusercontent.com/DataXujing/Icics/master/pic/logo.png   
+    :align: right
 
 Xujing
 
@@ -101,7 +105,7 @@ then you can training the hyper-parameters use the method of acc_mean:
 the result like this:
 
 
-.. image:: pic/test.png   
+.. image:: https://raw.githubusercontent.com/DataXujing/Icics/master/pic/test.png  
 
     
 
