@@ -1,19 +1,19 @@
 icics
 ========
-.. image:: https://img.shields.io/github/tag/expressjs/express.svg   
+.. image:: https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork 
     :target: https://github.com/DataXujing/Icics
 
-.. image:: https://www.travis-ci.org/DataXujing/Icics.svg?branch=master
+.. image:: https://img.shields.io/badge/Pypi-pip-yellow.svg
     :target: https://www.travis-ci.org/DataXujing/Icics
-
 
 .. image:: https://raw.githubusercontent.com/DataXujing/Icics/master/pic/logo.png   
     :align: right
 
+
 Xujing
 
 Inter Credit Intelligent classification system (icics).
-It is a python package to Inter-credit. You can use it to assign cases to your salasman. 
+It is a python package to Inter-credit. You can use it to assign cases to your salasman.
 
 Introduction
 ---------------
@@ -106,6 +106,7 @@ the result like this:
 
 
 .. image:: https://raw.githubusercontent.com/DataXujing/Icics/master/pic/test.png  
+
 
     
 

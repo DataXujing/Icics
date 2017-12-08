@@ -4,7 +4,6 @@ python:
 install:
   - pip install numpy
   - pip install pandas
-  - pip install random
   - pip install sklearn
   - pip install matplotlib
   - pip install seaborn
