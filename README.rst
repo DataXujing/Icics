@@ -4,10 +4,14 @@ icics
     :target: https://github.com/DataXujing/Icics
 
 .. image:: https://img.shields.io/badge/Pypi-pip-yellow.svg
-    :target: https://www.travis-ci.org/DataXujing/Icics
+    :target: https://pypi.python.org/pypi/Icics
+
+.. image:: https://travis-ci.org/DataXujing/Icics.svg?branch=master
+    :target: https://travis-ci.org/DataXujing/Icics
 
 .. image:: https://raw.githubusercontent.com/DataXujing/Icics/master/pic/logo.png   
     :align: right
+
 
 
 Xujing
